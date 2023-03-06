@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: -20;
+    margin-right: 0px;
+    margin-left: 250px;
+    
+}
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+.head {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1800px;
+    margin: 0;
+    padding: 0 2%;
+}
+
+.head img {
+    height: 80px;
+    
+}
+.tit {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #474747;
+    letter-spacing: 15px;
+    font-size: 400%;
+    width: 1295px;
+}
+
+
+.menutxt {
+    padding-top: 30px;
+    text-align: center;
+    width: 80%;
+}
